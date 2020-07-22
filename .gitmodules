@@ -1,0 +1,18 @@
+[submodule "C/Libft"]
+	path = C/Libft
+	url = https://github.com/ValerieGM/Libft.git
+[submodule "C/Get_Next_Line"]
+	path = C/Get_Next_Line
+	url = https://github.com/ValerieGM/Get_Next_Line.git
+[submodule "C/Filler"]
+	path = C/Filler
+	url = https://github.com/ValerieGM/Filler.git
+[submodule "C/Push_Swap"]
+	path = C/Push_Swap
+	url = https://github.com/ValerieGM/Push_Swap.git
+[submodule "C/Lemin"]
+	path = C/Lemin
+	url = https://github.com/ValerieGM/Lemin.git
+[submodule "Java/Fix-Me"]
+	path = Java/Fix-Me
+	url = https://github.com/Mahloko/fix-me.git
