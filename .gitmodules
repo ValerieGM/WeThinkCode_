@@ -19,3 +19,6 @@
 [submodule "Web/Matcha"]
 	path = Web/Matcha
 	url = https://github.com/zmadi1/mysql-matcha.git
+[submodule "Web/Camagru"]
+	path = Web/Camagru
+	url = https://github.com/ValerieGM/Camagru.git
