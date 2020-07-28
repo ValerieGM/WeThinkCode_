@@ -25,3 +25,6 @@
 [submodule "Sys Admin/Docker"]
 	path = Sys Admin/Docker
 	url = https://github.com/ValerieGM/Docker.git
+[submodule "Java/AvajLauncher"]
+	path = Java/AvajLauncher
+	url = https://github.com/ValerieGM/AvajLauncher.git
