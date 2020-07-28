@@ -22,3 +22,6 @@
 [submodule "Web/Camagru"]
 	path = Web/Camagru
 	url = https://github.com/ValerieGM/Camagru.git
+[submodule "Sys Admin/Docker"]
+	path = Sys Admin/Docker
+	url = https://github.com/ValerieGM/Docker.git
